@@ -16,7 +16,8 @@ This project demonstrates DOM Manipulation and Event Handling by allowing users 
 - JavaScript (DOM Manipulation)
 
 ## 🔗 Live Demo:-
-View Project
+
+https://babalugoswami.github.io/Smart-Counter-App/
 
 ## 📚 Learning Outcomes
 - DOM Manipulation
